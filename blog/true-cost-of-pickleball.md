@@ -2,9 +2,9 @@
 
 Pickleball has a reputation as the cheap racket sport. Buy a paddle, find a park, show up. That's how it starts.
 
-Then you notice the paddle you bought is "last year's core." Your shoes have a bald spot under the big toe. You join a club because the park has a 45-minute wait. Someone invites you to a tournament two states away. Your DUPR is stuck at 3.9 and a YouTube coach promises the fix is behind a paywall.
+Then you notice the paddle you bought is "last year's core." Your shoes have a bald spot under the big toe. You join a club because the park has a 45-minute wait. Someone invites you to a tournament two states away. Your DUPR is stuck at 3.9, so you book a lesson, upload your match to an AI coach, and start pricing ball machines.
 
-I play at least three times a week, so I wanted to know where my money really goes. I built a simple annual cost model for nine categories and ran it for three kinds of players. The results surprised me. The gear everyone argues about online is not where the money goes.
+I play at least three times a week, so I wanted to know where my money really goes. I built a simple annual cost model for ten categories and ran it for three kinds of players. The results surprised me. The gear everyone argues about online is not where the money goes.
 
 ---
 
@@ -17,6 +17,7 @@ All three players live in a US suburb and drive to play. Every number is an annu
 | Sessions per year | 50 (once a week) | 150 (three times a week) | 250 (about five times a week) |
 | Where they play | Public park, some rec center drop-ins | Indoor club membership | Premium club plus rented courts for drilling |
 | Round trip per session | 8 miles | 12 miles | 15 miles |
+| Coaching | A few beginner clinics | Monthly clinic plus a few private lessons | Weekly private lesson plus a ball machine |
 | Tournaments per year | 0 | 2 local | 10 (6 drive-in, 4 fly-in) |
 | Rough DUPR | Unrated or 3.0 | 3.5 to 4.0 | 4.5+ |
 
@@ -29,88 +30,94 @@ I'm the core player. You probably know all three.
 | Category | Weekly | Core | Competitive |
 |---|---|---|---|
 | Travel | $280 | $1,260 | $7,465 |
+| Coaching and lessons (incl. ball machine) | $90 | $880 | $4,750 |
 | Court fees | $150 | $1,100 | $2,800 |
 | Tournaments | $0 | $212 | $1,860 |
+| Online services (video, AI coaching) | $0 | $240 | $909 |
 | Paddles (net of resale) | $60 | $350 | $750 |
-| Video subscriptions | $0 | $140 | $560 |
 | Apparel and accessories | $75 | $300 | $500 |
 | Shoes | $100 | $260 | $490 |
 | Balls | $35 | $100 | $250 |
 | DUPR | $0 | $30 | $30 |
-| **Total per year** | **$700** | **$3,752** | **$14,705** |
-| **Cost per session** | **$14** | **$25** | **$59** |
+| **Total per year** | **$790** | **$4,732** | **$19,804** |
+| **Cost per session** | **$16** | **$32** | **$79** |
 
-The competitive player spends about 21 times what the weekly player spends. They only play 5 times as often. Pickleball gets more expensive per session the more seriously you take it.
+The competitive player spends about 25 times what the weekly player spends. They only play 5 times as often. Pickleball gets more expensive per session the more seriously you take it.
 
 ---
 
 ## Rankings by Player Type
 
-### Weekly Player: $700 a year
+### Weekly Player: $790 a year
 
 | Rank | Category | Annual Cost | Share |
 |---|---|---|---|
-| 1 | Travel | $280 | 40% |
-| 2 | Court fees | $150 | 21% |
-| 3 | Shoes | $100 | 14% |
-| 4 | Apparel | $75 | 11% |
-| 5 | Paddles | $60 | 9% |
-| 6 | Balls | $35 | 5% |
-| 7 (tie) | Video, Tournaments, DUPR | $0 | 0% |
+| 1 | Travel | $280 | 35% |
+| 2 | Court fees | $150 | 19% |
+| 3 | Shoes | $100 | 13% |
+| 4 | Coaching and lessons | $90 | 11% |
+| 5 | Apparel | $75 | 9% |
+| 6 | Paddles | $60 | 8% |
+| 7 | Balls | $35 | 4% |
+| 8 (tie) | Online services, Tournaments, DUPR | $0 | 0% |
 
-The weekly player's biggest expense is getting to the court. The paddle, which they agonized over for two weeks, is fifth. Video, tournaments, and DUPR cost nothing because YouTube is free, they don't compete, and a basic DUPR account is free.
+The weekly player's biggest expense is getting to the court. The paddle, which they agonized over for two weeks, is sixth. A few beginner clinics cost more than the paddle does. Online services, tournaments, and DUPR cost nothing because YouTube is free, they don't compete, and a basic DUPR account is free.
 
-### Core Player: $3,752 a year
-
-| Rank | Category | Annual Cost | Share |
-|---|---|---|---|
-| 1 | Travel | $1,260 | 34% |
-| 2 | Court fees | $1,100 | 29% |
-| 3 | Paddles | $350 | 9% |
-| 4 | Apparel | $300 | 8% |
-| 5 | Shoes | $260 | 7% |
-| 6 | Tournaments | $212 | 6% |
-| 7 | Video subscriptions | $140 | 4% |
-| 8 | Balls | $100 | 3% |
-| 9 | DUPR | $30 | 1% |
-
-This is where the club membership kicks in. Travel and courts together are almost two thirds of the budget. Paddle churn moves up to third because the core player buys new paddles and sells old ones.
-
-### Competitive Player: $14,705 a year
+### Core Player: $4,732 a year
 
 | Rank | Category | Annual Cost | Share |
 |---|---|---|---|
-| 1 | Travel | $7,465 | 51% |
-| 2 | Court fees | $2,800 | 19% |
-| 3 | Tournaments | $1,860 | 13% |
-| 4 | Paddles | $750 | 5% |
-| 5 | Video subscriptions | $560 | 4% |
-| 6 | Apparel | $500 | 3% |
-| 7 | Shoes | $490 | 3% |
-| 8 | Balls | $250 | 2% |
-| 9 | DUPR | $30 | 0.2% |
+| 1 | Travel | $1,260 | 27% |
+| 2 | Court fees | $1,100 | 23% |
+| 3 | Coaching and lessons | $880 | 19% |
+| 4 | Paddles | $350 | 7% |
+| 5 | Apparel | $300 | 6% |
+| 6 | Shoes | $260 | 5% |
+| 7 | Online services | $240 | 5% |
+| 8 | Tournaments | $212 | 4% |
+| 9 | Balls | $100 | 2% |
+| 10 | DUPR | $30 | 1% |
 
-Half the budget is travel. Four fly-in tournaments alone ($3,640) cost almost as much as the core player's entire year. Entry fees become a real line item, but they're still a fraction of what it costs to get to the venue.
+This is where the club membership kicks in. Travel, courts, and coaching together are more than two thirds of the budget. Paddle churn comes next, because the core player buys new paddles and sells old ones.
+
+### Competitive Player: $19,804 a year
+
+| Rank | Category | Annual Cost | Share |
+|---|---|---|---|
+| 1 | Travel | $7,465 | 38% |
+| 2 | Coaching and lessons | $4,750 | 24% |
+| 3 | Court fees | $2,800 | 14% |
+| 4 | Tournaments | $1,860 | 9% |
+| 5 | Online services | $909 | 5% |
+| 6 | Paddles | $750 | 4% |
+| 7 | Apparel | $500 | 3% |
+| 8 | Shoes | $490 | 2% |
+| 9 | Balls | $250 | 1% |
+| 10 | DUPR | $30 | 0.2% |
+
+Travel is still first. Coaching passes court fees for second place. Four fly-in tournaments alone ($3,640) cost more than three quarters of the core player's entire year.
 
 ### Rank Comparison at a Glance
 
 | Category | Weekly Rank | Core Rank | Competitive Rank |
 |---|---|---|---|
 | Travel | 1 | 1 | 1 |
-| Court fees | 2 | 2 | 2 |
-| Tournaments | 7 | 6 | 3 |
-| Paddles | 5 | 3 | 4 |
-| Video subscriptions | 7 | 7 | 5 |
-| Apparel | 4 | 4 | 6 |
-| Shoes | 3 | 5 | 7 |
-| Balls | 6 | 8 | 8 |
-| DUPR | 7 | 9 | 9 |
+| Coaching and lessons | 4 | 3 | 2 |
+| Court fees | 2 | 2 | 3 |
+| Tournaments | 8 | 8 | 4 |
+| Online services | 8 | 7 | 5 |
+| Paddles | 6 | 4 | 6 |
+| Apparel | 5 | 5 | 7 |
+| Shoes | 3 | 6 | 8 |
+| Balls | 7 | 9 | 9 |
+| DUPR | 8 | 10 | 10 |
 
-Three patterns stand out:
+Four patterns stand out:
 
-1. **Travel and court fees are always #1 and #2.** Gear never wins.
-2. **Tournaments climb the fastest.** From last place to third.
-3. **Shoes fall the furthest.** They matter a lot to a casual budget and very little to a competitive one.
+1. **Travel is always #1.** Gear never wins.
+2. **Getting better costs more than playing.** Coaching climbs from fourth to second. For the competitive player it costs more than court time.
+3. **Tournaments and online services climb the fastest.** Both go from a tie for last to the top five.
+4. **Shoes fall the furthest.** They matter a lot to a casual budget and very little to a competitive one.
 
 ---
 
@@ -118,7 +125,7 @@ Three patterns stand out:
 
 ### 1. Travel: The Cost Nobody Counts
 
-I priced driving at about 70 cents a mile, which is the IRS standard mileage rate for 2025. That rate covers gas, maintenance, tires, insurance, and depreciation. It is the real cost of using your car, even if it doesn't feel like it at the pump.
+I priced driving at about 70 cents a mile, which is the IRS standard mileage rate for 2025. That rate covers gas, maintenance, tires, insurance, and depreciation. It is the full cost of using your car, even if it doesn't feel like it at the pump.
 
 | Player | Local Driving | Tournament Travel | Total |
 |---|---|---|---|
@@ -130,7 +137,38 @@ A fly-in tournament in my model is a $400 flight, two hotel nights at $180, and 
 
 **The counterargument:** many people only count gas, which is closer to 11 cents a mile for a 30 mpg car. If you use that number, travel drops to $44 for the weekly player and $198 for the core player. Court fees then become #1 for both. The competitive player's travel still ranks first at about $5,250, because flights and hotels don't care how you count mileage.
 
-### 2. Court Fees: Free Until It Isn't
+### 2. Coaching and Lessons (Including Ball Machines)
+
+This is the category that grows the most with ambition. Prices vary a lot by market and by who is teaching.
+
+| Option | Typical Price |
+|---|---|
+| Group clinic | About $25 to $90 per session |
+| Pro-led clinic | About $75 to $150 per session |
+| Private lesson, certified coach | About $80 to $150 per hour |
+| Private lesson, current or former pro | About $150 to $250+ per hour |
+| Multi-day camp | About $1,500 to $4,000 |
+
+My assumptions:
+
+- **Weekly:** three beginner clinics at $30. Total $90.
+- **Core:** one $40 clinic a month plus four $100 private lessons. Total $880.
+- **Competitive:** 40 private lessons at $110 plus a ball machine. Total $4,750.
+
+**Ball machines** are the solo player's coach. Popular models cost real money:
+
+| Machine | Price |
+|---|---|
+| Budget machines | Under $200 to about $700 |
+| Pickleball Tutor Spin | About $1,000 to $1,200 |
+| Spinshot Player and other app-controlled models | About $1,200 to $2,000 |
+| Lobster Pickle Two | $1,749 |
+
+I gave the competitive player a $1,750 machine and spread it over five years, so $350 a year. Used about 50 times a year, that's $7 a session before court time and balls. That's cheaper than any lesson. A ball machine won't tell you what you're doing wrong, though. Some clubs also rent machines by the hour, which is a better deal for players who only drill occasionally.
+
+**The counterargument:** coaching is the most optional category here. Plenty of 4.0 players never paid for a lesson. On the other hand, the competitive number could easily double with a pro coach or a camp.
+
+### 3. Court Fees: Free Until It Isn't
 
 Public parks are often free. That's the pickleball sales pitch. The catch is that free courts come with waits, wind, and mixed skill levels.
 
@@ -149,7 +187,7 @@ My assumptions:
 
 Park City, Utah is a good example of how quickly this changes. Its 2026 schedule lists outdoor courts at $16 an hour for residents and indoor courts at $40. Same city, same sport, 2.5 times the price.
 
-### 3. Tournaments: Entry Fees Are the Cheap Part
+### 4. Tournaments: Entry Fees Are the Cheap Part
 
 Amateur tournaments usually charge a registration fee plus a per-event fee. Per-event fees I found ranged from about $10 at small local events to $45 at a national championship. Pickleball Tournaments, a common registration platform, adds a service fee on top.
 
@@ -163,7 +201,33 @@ You also need a USA Pickleball membership for sanctioned events. The paid tiers 
 
 For the competitive player, tournaments themselves cost $1,860. Getting to them costs $4,840. The entry fee is the cover charge. The trip is the bar tab.
 
-### 4. Paddles: Buying, Trading, and the Upgrade Treadmill
+### 5. Online Services: Video and AI Coaching
+
+Free YouTube covers most of what a weekly player needs. The PPA Tour streams a lot of matches on its own YouTube channel. Paid services fall into three groups.
+
+| Service | Type | Price |
+|---|---|---|
+| PickleballTV (PPA, MLP coverage) | Pro match streaming | $5.99/month or $59.99/year |
+| The Art of Pickleball (Pro membership) | Instruction library | $7.99/month or $79.99/year (promo pricing) |
+| Cam Luhring Pickleball (Skool community) | Instruction community | $15, $50, or $75/month by tier |
+| Pickleball 360 | Pro lesson library | $60/month or $499/year |
+| PB Vision Starter | AI video analysis | $19.99/month or $99.99/year (promo; regular $240/year) |
+| PB Vision Premium | AI video analysis | $49.99/month or $396/year |
+| SwingVision Plus / Pro / Max | AI video analysis | About $96, $180, or $300 a year |
+
+AI video analysis is the newest line item. You record your match on a phone or court camera, upload it, and get shot stats, heat maps, and coaching tips back. It's like a coach who watches every game but never talks to you.
+
+My assumptions:
+
+- **Weekly:** free YouTube only. $0.
+- **Core:** PickleballTV, a budget instruction library, and an entry-level AI analysis plan at about $100 a year. Total $240.
+- **Competitive:** PickleballTV, a premium lesson library, and a top-tier AI analysis plan at about $350 a year. Total $909.
+
+I used a typical price for each AI tier instead of picking a brand. **Disclosure: I'm an investor in PB Vision.** SwingVision and PB Vision land in the same price range, so the choice doesn't change the totals much.
+
+I left YouTube Premium ($15.99 a month as of April 2026) out of the totals. Most people would pay for it anyway, so it isn't really a pickleball cost.
+
+### 6. Paddles: Buying, Trading, and the Upgrade Treadmill
 
 Paddle prices are all over the place right now. A JOOLA Perseus 14mm was on sale for $119.95 at one retailer, while a Perseus Pro V lists at $299.95. Used copies of the Pro V start around $180.
 
@@ -185,27 +249,7 @@ My rule of thumb: assume a used paddle sells for 40% to 50% of what you paid. Po
 
 **The competitive twist:** many 4.5+ players get ambassador or sponsor discounts. That can cut their paddle cost a lot. I didn't model it because the terms vary widely.
 
-### 5. Video Subscriptions: The YouTube Rabbit Hole
-
-Free YouTube covers most of what a weekly player needs. The PPA Tour streams a lot of matches on its own YouTube channel. Paid content starts when you want structured coaching or full pro coverage.
-
-| Service | Price |
-|---|---|
-| PickleballTV (PPA, MLP coverage) | $5.99/month or $59.99/year |
-| The Art of Pickleball (Pro membership) | $7.99/month or $79.99/year (promo pricing) |
-| Cam Luhring Pickleball (Skool community) | $15, $50, or $75/month by tier |
-| Pickleball 360 (pro lesson library) | $60/month or $499/year |
-| YouTube Premium (ad-free, not pickleball-specific) | $15.99/month as of April 2026 |
-
-- **Weekly:** free YouTube only. $0.
-- **Core:** PickleballTV annual plus one budget coaching library. About $140.
-- **Competitive:** PickleballTV plus a premium coaching library. About $560.
-
-I left YouTube Premium out of the totals. Most people would pay for it anyway, so it isn't really a pickleball cost.
-
-Video analysis is a growing category too. Tools like PB Vision analyze your own match footage. (Disclosure: I'm an investor in PB Vision.) I left it out of the model so my bias doesn't leak into the numbers.
-
-### 6. Apparel and Accessories
+### 7. Apparel and Accessories
 
 This bucket includes shirts, shorts, socks, hats, sunglasses, and a bag.
 
@@ -215,7 +259,7 @@ This bucket includes shirts, shorts, socks, hats, sunglasses, and a bag.
 
 This category is the most "optional." You can play in old gym clothes. Most of us don't.
 
-### 7. Shoes: Small Price, Big Wear
+### 8. Shoes: Small Price, Big Wear
 
 Pickleball shoes run about $50 to $180, with an average around $89 according to one consumer guide. Court shoes matter. Running shoes don't support lateral movement and wear out fast on hard courts.
 
@@ -227,7 +271,7 @@ Pickleball shoes run about $50 to $180, with an average around $89 according to 
 
 I couldn't find solid data on shoe lifespan. Some frequent players report replacing shoes about every six months. Competitive players who drill and play daily go through them faster. Treat these numbers as reasonable guesses, not measurements.
 
-### 8. Balls: Cracked Balls Are Cheap
+### 9. Balls: Cracked Balls Are Cheap
 
 Everybody complains about cracked balls. Cracked balls barely move the needle.
 
@@ -238,9 +282,9 @@ Here's the math for a cracked ball in a doubles game:
 - $2.50 per ball / 25 games = **$0.10 per game**
 - Split four ways = **$0.025 per player per game**
 
-That's two and a half cents. The core player in my model buys about three 12-packs a year ($100). The competitive player keeps a drilling basket stocked and buys tournament balls ($250). Neither is a budget problem.
+That's two and a half cents. The core player in my model buys about three 12-packs a year ($100). The competitive player keeps a ball machine and drilling basket stocked and buys tournament balls ($250). Neither is a budget problem.
 
-### 9. DUPR Fees
+### 10. DUPR Fees
 
 DUPR's basic rating is free. DUPR+ launched in June 2025 at $29.99 a year, with perks like gear discounts. I couldn't confirm 2026 pricing, so check the app.
 
@@ -253,24 +297,24 @@ DUPR ranks last for core and competitive players. A DUPR+ membership costs about
 
 ## What This Means
 
-**If you're a weekly player:** your paddle is not your budget problem. Getting to the court is. Carpooling with your group is the single biggest saving you can make. Your $700 a year is still cheap for a sport you play 50 times.
+**If you're a weekly player:** your paddle is not your budget problem. Getting to the court is. Carpooling with your group is the single biggest saving you can make. A few clinics early on are probably the best money you'll spend. Your $790 a year is still cheap for a sport you play 50 times.
 
-**If you're a core player (like me):** the club membership is the decision that matters. At 150 sessions, an $85 membership works out to about $7 a session. That's often cheaper than drop-ins. Paddle churn is the next thing to watch. Do you need that new paddle, or are you buying hope?
+**If you're a core player (like me):** the club membership is the decision that matters. At 150 sessions, an $85 membership works out to about $7 a session. That's often cheaper than drop-ins. Coaching is the next big lever. A monthly clinic costs $480 a year. That's more than the core player's net paddle spend, and it probably does more for your DUPR.
 
-**If you're a competitive player:** your sport is now a travel hobby. Choose tournaments by distance as much as by draw. Two fly-in events you skip can save more than a year of paddles, shoes, and balls combined.
+**If you're a competitive player:** your sport is now a travel hobby with a coaching habit. Choose tournaments by distance as much as by draw. Two fly-in events you skip can save more than a year of paddles, shoes, and balls combined. A ball machine at $7 a session is the cheapest reps you can buy.
 
 ---
 
 ## Caveats and Counterarguments
 
-- **Your region changes everything.** Court fees in a big city can be double my estimates. Free courts in a warm suburb can make court fees nearly zero.
-- **The travel number depends on how you count.** Using gas only drops travel to fifth place for the weekly player and sixth for the core player. I think the full cost of driving is more honest. Reasonable people disagree.
-- **Lessons and clinics are not in this model.** Group clinics run about $20 to $50 per session. Private lessons run about $80 to $150 an hour. A competitive player taking weekly lessons could add $4,000+ a year, which would rival court fees.
+- **Your region changes everything.** Court fees and lesson rates in a big city can be double my estimates. Free courts in a warm suburb can make court fees nearly zero.
+- **The travel number depends on how you count.** Using gas only drops travel to sixth place for the weekly player and eighth for the core player. I think the full cost of driving is more honest. Reasonable people disagree.
+- **Coaching is the most elastic category.** Some players never take a lesson. Others hire a pro weekly or go to camps. My competitive estimate could reasonably be half or double.
 - **Sponsorships offset gear.** A competitive player with a paddle deal may pay very little for paddles, apparel, or shoes.
 - **Prices move.** Paddle discounts, ball deals, and subscription prices change constantly. Many numbers here come from single retailers or blogs, not national surveys.
-- **Physical therapy, braces, and recovery gear are out of scope.** Ask anyone over 40 whether that should be a tenth category.
+- **Physical therapy, braces, and recovery gear are out of scope.** Ask anyone over 40 whether that should be an eleventh category.
 
-Pickleball is still cheap to start. It just isn't cheap to love. The paddle debate gets the attention, but the car, the court, and the tournament trip pay the bills.
+Pickleball is still cheap to start. It just isn't cheap to love. The paddle debate gets the attention, but the car, the coach, the court, and the tournament trip pay the bills.
 
 ---
 
@@ -284,6 +328,17 @@ Pickleball is still cheap to start. It just isn't cheap to love. The paddle deba
 - [Oakley, Utah pickleball tournament](https://www.oakleyut.gov/node/18252)
 - [Park City 2026 tennis and pickleball fees](https://www.parkcity.gov/recreation/racquet_sports/fees.php)
 - [Pickleball.com: how to price a club membership](https://pickleball.com/docs/en/article/how-to-price-a-pickleball-club-membership.html)
+- [Pickleball Union: pickleball lessons cost](https://pickleballunion.com/pickleball-lessons-cost/)
+- [Are pickleball lessons worth it? (lesson pricing)](https://mypickleballconnect.com/guides/are-pickleball-lessons-worth-it/)
+- [Lakewood Ranch summer 2026 pickleball price sheet](https://www.lakewoodranchgolf.com/Files/Library/PickleballWeeklySummer2026.pdf)
+- [Pickleball clinics for adults](https://forwrd.co/blogs/strategy-tips/pickleball-clinics-for-adults)
+- [Pickleball ball machine guide](https://mypickleballconnect.com/guides/pickleball-ball-machine/)
+- [Lobster Pickle Two review, 2026](https://forwrd.co/blogs/gear-guides/lobster-pickle-two-ball-machine-review-2026-worth-1-749)
+- [Top pickleball ball machine brands](https://racquetsocial.com/six-leading-pickleball-ball-machine-brands/)
+- [PB Vision subscriptions, minutes, and AI coaching credits](https://help.pb.vision/en/articles/9743996-subscriptions-minutes-and-ai-coaching-credits)
+- [PB Vision pricing page](https://pb.vision/subscribe)
+- [SwingVision on the App Store](https://apps.apple.com/us/app/swingvision-tennis-pickleball/id989461317)
+- [SwingVision in-app purchase prices (App Pricing Lab)](https://apppricinglab.com/iap/apple/989461317)
 - [Franklin X-40 12-pack at Tennis Warehouse](https://www.tennis-warehouse.com/Franklin_X-40_Outdoor_Pickleballs_-_Optic/descpage-FR40OP.html)
 - [Franklin X-40 review, 2026](https://forwrd.co/blogs/gear-guides/franklin-x-40-pickleball-review-2026-the-official-tournament-ball-honestly-rated)
 - [Pickleheads: Selkirk Pro S1 review](https://www.pickleheads.com/pickleball-gear/selkirk-pro-s1-review)
@@ -299,4 +354,3 @@ Pickleball is still cheap to start. It just isn't cheap to love. The paddle deba
 - [Pickleball 360 memberships](https://video.pickleball360.com/join)
 - [The Art of Pickleball platform launch](https://www.newswire.com/news/the-art-of-pickleball-launches-new-platform-21963022)
 - [Cam Luhring Pickleball on Skool](https://www.skool.com/cam-luhring-pickleball-1589)
-- [Are pickleball lessons worth it? (lesson pricing)](https://mypickleballconnect.com/guides/are-pickleball-lessons-worth-it/)
