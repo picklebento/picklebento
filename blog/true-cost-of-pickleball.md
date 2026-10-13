@@ -4,7 +4,7 @@ Pickleball has a reputation as the cheap racket sport. Buy a paddle, find a park
 
 Then you notice the paddle you bought is "last year's core." Your shoes have a bald spot under the big toe. You join a club because the park has a 45-minute wait. Someone invites you to a tournament two states away. Your DUPR is stuck at 3.9, so you book a lesson, upload your match to an AI coach, and start pricing ball machines.
 
-I play at least three times a week, so I wanted to know where my money really goes. I built a simple annual cost model for ten categories and ran it for three kinds of players. The results surprised me. The gear everyone argues about online is not where the money goes.
+I play at least three times a week, so I wanted to know where my money really goes. I built a simple annual cost model for ten categories and ran it for three kinds of players. For the competitive player I added an eleventh: therapy and medical costs. The results surprised me. The gear everyone argues about online is not where the money goes.
 
 ---
 
@@ -19,6 +19,7 @@ All three players live in a US suburb and drive to play. Every number is an annu
 | Round trip per session | 8 miles | 12 miles | 15 miles |
 | Coaching | A few beginner clinics | Monthly clinic plus a few private lessons | Weekly private lesson plus a ball machine |
 | Tournaments per year | 0 | 2 local | 10 (6 drive-in, 4 fly-in) |
+| Body maintenance | Not modeled | Not modeled | Monthly sports massage, PT for one overuse injury, recovery gear |
 | Rough DUPR | Unrated or 3.0 | 3.5 to 4.0 | 4.5+ |
 
 I'm the core player. You probably know all three.
@@ -32,6 +33,7 @@ I'm the core player. You probably know all three.
 | Travel | $280 | $1,260 | $7,465 |
 | Coaching and lessons (incl. ball machine) | $90 | $880 | $4,750 |
 | Court fees | $150 | $1,100 | $2,800 |
+| Therapy and medical (out of pocket) | Not modeled | Not modeled | $2,290 |
 | Tournaments | $0 | $212 | $1,860 |
 | Online services (video, AI coaching) | $0 | $240 | $909 |
 | Paddles (net of resale) | $60 | $350 | $750 |
@@ -39,10 +41,10 @@ I'm the core player. You probably know all three.
 | Shoes | $100 | $260 | $490 |
 | Balls | $35 | $100 | $250 |
 | DUPR | $0 | $30 | $30 |
-| **Total per year** | **$790** | **$4,732** | **$19,804** |
-| **Cost per session** | **$16** | **$32** | **$79** |
+| **Total per year** | **$790** | **$4,732** | **$22,094** |
+| **Cost per session** | **$16** | **$32** | **$88** |
 
-The competitive player spends about 25 times what the weekly player spends. They only play 5 times as often. Pickleball gets more expensive per session the more seriously you take it.
+The competitive player spends about 28 times what the weekly player spends. Leave out therapy and medical, which I only modeled for them, and it's still 25 times. They only play 5 times as often. Pickleball gets more expensive per session the more seriously you take it.
 
 ---
 
@@ -80,22 +82,23 @@ The weekly player's biggest expense is getting to the court. The paddle, which t
 
 This is where the club membership kicks in. Travel, courts, and coaching together are more than two thirds of the budget. Paddle churn comes next, because the core player buys new paddles and sells old ones.
 
-### Competitive Player: $19,804 a year
+### Competitive Player: $22,094 a year
 
 | Rank | Category | Annual Cost | Share |
 |---|---|---|---|
-| 1 | Travel | $7,465 | 38% |
-| 2 | Coaching and lessons | $4,750 | 24% |
-| 3 | Court fees | $2,800 | 14% |
-| 4 | Tournaments | $1,860 | 9% |
-| 5 | Online services | $909 | 5% |
-| 6 | Paddles | $750 | 4% |
-| 7 | Apparel | $500 | 3% |
-| 8 | Shoes | $490 | 2% |
-| 9 | Balls | $250 | 1% |
-| 10 | DUPR | $30 | 0.2% |
+| 1 | Travel | $7,465 | 34% |
+| 2 | Coaching and lessons | $4,750 | 22% |
+| 3 | Court fees | $2,800 | 13% |
+| 4 | Therapy and medical | $2,290 | 10% |
+| 5 | Tournaments | $1,860 | 8% |
+| 6 | Online services | $909 | 4% |
+| 7 | Paddles | $750 | 3% |
+| 8 | Apparel | $500 | 2% |
+| 9 | Shoes | $490 | 2% |
+| 10 | Balls | $250 | 1% |
+| 11 | DUPR | $30 | 0.1% |
 
-Travel is still first. Coaching passes court fees for second place. Four fly-in tournaments alone ($3,640) cost more than three quarters of the core player's entire year.
+Travel is still first. Coaching passes court fees for second place. Keeping the body running comes fourth, ahead of tournament entry fees. Four fly-in tournaments alone ($3,640) cost more than three quarters of the core player's entire year.
 
 ### Rank Comparison at a Glance
 
@@ -104,20 +107,22 @@ Travel is still first. Coaching passes court fees for second place. Four fly-in 
 | Travel | 1 | 1 | 1 |
 | Coaching and lessons | 4 | 3 | 2 |
 | Court fees | 2 | 2 | 3 |
-| Tournaments | 8 | 8 | 4 |
-| Online services | 8 | 7 | 5 |
-| Paddles | 6 | 4 | 6 |
-| Apparel | 5 | 5 | 7 |
-| Shoes | 3 | 6 | 8 |
-| Balls | 7 | 9 | 9 |
-| DUPR | 8 | 10 | 10 |
+| Therapy and medical | n/a | n/a | 4 |
+| Tournaments | 8 | 8 | 5 |
+| Online services | 8 | 7 | 6 |
+| Paddles | 6 | 4 | 7 |
+| Apparel | 5 | 5 | 8 |
+| Shoes | 3 | 6 | 9 |
+| Balls | 7 | 9 | 10 |
+| DUPR | 8 | 10 | 11 |
 
-Four patterns stand out:
+Five patterns stand out:
 
 1. **Travel is always #1.** Gear never wins.
 2. **Getting better costs more than playing.** Coaching climbs from fourth to second. For the competitive player it costs more than court time.
-3. **Tournaments and online services climb the fastest.** Both go from a tie for last to the top five.
+3. **Tournaments and online services climb the fastest.** Both go from a tie for last to the top six.
 4. **Shoes fall the furthest.** They matter a lot to a casual budget and very little to a competitive one.
+5. **At five sessions a week, your body becomes a line item.** Therapy and medical costs more than tournament entries, paddles, and shoes.
 
 ---
 
@@ -293,6 +298,43 @@ DUPR's basic rating is free. DUPR+ launched in June 2025 at $29.99 a year, with 
 
 DUPR ranks last for core and competitive players. A DUPR+ membership costs about the same as one 12-pack of balls. Some leagues and events pass DUPR-related costs through their entry fees, and those show up under tournaments.
 
+### 11. Therapy and Medical: Maintenance for the Competitive Body
+
+Five sessions a week plus drilling is a lot of load on knees, elbows, and Achilles tendons. The injury data partly backs that up.
+
+- A survey of 237 older players at the 2018 US Open Pickleball Championships found that 32.1% had an injury in the prior 12 months. Most were lower-body and muscle or tendon injuries. More weekly play hours was one of the risk factors.
+- A 2024 study at a national championship found a similar rate (34.2%). It found the opposite link to play hours, though. More hours went with fewer injuries.
+- In 2023, UBS analysts estimated pickleball injuries could cost Americans about $377 million in a year. That's an analyst estimate, not a measured number.
+
+None of these studies looks only at 4.5+ tournament players. So treat the injury risk below as a reasonable guess.
+
+| Option | Typical Price |
+|---|---|
+| Sports massage, 60 minutes | About $105 to $130 (range about $65 to $160) |
+| Physical therapy, insured copay | About $20 to $75 per visit |
+| Physical therapy, cash price | About $75 to $350 per session, most clinics $100 to $200 |
+| MRI at a freestanding imaging center | About $400 to $1,200 |
+| Mental performance coach | About $120 to $220 per session |
+| Massage gun (Theragun Prime) | About $320 to $345 |
+| Compression boots (Normatec) | About $400 to $1,100 |
+| Elbow brace or knee sleeve | About $20 to $90 |
+| Kinesiology tape | About $10 to $15 a pack |
+
+My assumptions for the competitive player:
+
+- **Sports massage:** once a month at $110. Total $1,320.
+- **One overuse injury a year** (tennis elbow or a cranky knee): a sports medicine visit plus 10 physical therapy sessions, all at a $50 copay. Total $550.
+- **Recovery gear:** a $330 massage gun spread over three years ($110), $799 leg compression boots spread over five years ($160), plus braces, sleeves, and tape ($150). Total $420.
+
+That's **$2,290 a year**, or about $9 a session. I only counted out-of-pocket spending. Health insurance premiums are left out because most people would pay them anyway, the same logic I used for YouTube Premium. I also left a mental performance coach out of the total. Four sessions before big tournaments would add about $500.
+
+Why only the competitive player? Weekly and core players get hurt too. In fact most pickleball ER visits involve players over 50. Their costs tend to come as one bad injury, not a steady monthly bill, so a yearly average would mislead more than it helps.
+
+**The counterargument:** this number can swing hard in both directions.
+
+- **Higher:** the average single-coverage deductible for workers with employer plans was $1,886 in 2025, according to KFF. If you haven't met your deductible, you may pay the full negotiated rate for each PT visit. A cash course of 6 to 12 visits runs roughly $600 to $2,400. One MRI adds $400 to $1,200. A fracture or surgery blows up the whole model.
+- **Lower:** massage is more than half the total and fully optional. Plenty of 4.5 players never book one. Paying through an HSA or FSA also softens the bill with pre-tax dollars.
+
 ---
 
 ## What This Means
@@ -301,7 +343,7 @@ DUPR ranks last for core and competitive players. A DUPR+ membership costs about
 
 **If you're a core player (like me):** the club membership is the decision that matters. At 150 sessions, an $85 membership works out to about $7 a session. That's often cheaper than drop-ins. Coaching is the next big lever. A monthly clinic costs $480 a year. That's more than the core player's net paddle spend, and it probably does more for your DUPR.
 
-**If you're a competitive player:** your sport is now a travel hobby with a coaching habit. Choose tournaments by distance as much as by draw. Two fly-in events you skip can save more than a year of paddles, shoes, and balls combined. A ball machine at $7 a session is the cheapest reps you can buy.
+**If you're a competitive player:** your sport is now a travel hobby with a coaching habit. Choose tournaments by distance as much as by draw. Two fly-in events you skip can save more than a year of paddles, shoes, and balls combined. A ball machine at $7 a session is the cheapest reps you can buy. Budget for your body too. A monthly massage alone costs more than a year of paddles, and it's cheaper than missing a season with a torn tendon.
 
 ---
 
@@ -312,9 +354,9 @@ DUPR ranks last for core and competitive players. A DUPR+ membership costs about
 - **Coaching is the most elastic category.** Some players never take a lesson. Others hire a pro weekly or go to camps. My competitive estimate could reasonably be half or double.
 - **Sponsorships offset gear.** A competitive player with a paddle deal may pay very little for paddles, apparel, or shoes.
 - **Prices move.** Paddle discounts, ball deals, and subscription prices change constantly. Many numbers here come from single retailers or blogs, not national surveys.
-- **Physical therapy, braces, and recovery gear are out of scope.** Ask anyone over 40 whether that should be an eleventh category.
+- **Therapy and medical costs are only modeled for the competitive player.** Weekly and core players get hurt too, often from a single fall or strain. One MRI or a course of PT can outweigh a weekly player's entire year. Ask anyone over 40.
 
-Pickleball is still cheap to start. It just isn't cheap to love. The paddle debate gets the attention, but the car, the coach, the court, and the tournament trip pay the bills.
+Pickleball is still cheap to start. It just isn't cheap to love. The paddle debate gets the attention, but the car, the coach, the court, and the tournament trip pay the bills. For competitive players, add the physical therapist.
 
 ---
 
@@ -354,3 +396,19 @@ Pickleball is still cheap to start. It just isn't cheap to love. The paddle deba
 - [Pickleball 360 memberships](https://video.pickleball360.com/join)
 - [The Art of Pickleball platform launch](https://www.newswire.com/news/the-art-of-pickleball-launches-new-platform-21963022)
 - [Cam Luhring Pickleball on Skool](https://www.skool.com/cam-luhring-pickleball-1589)
+- [Injury epidemiology and risk factors in older pickleball players (Kim et al.)](https://scholarx.skku.edu/item/fb479ec7-dfdc-41a6-a765-311a67e0e5db)
+- [Frontiers in Public Health: pickleball injury research, 2026](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2026.1898734/full)
+- [Front Office Sports: pickleball injuries could cost the US nearly $400 million a year](https://frontofficesports.com/article/pickleball-injuries-could-cost-u-s-nearly-400-million-per-year/)
+- [Hinge Health: the true cost of physical therapy](https://www.hingehealth.com/resources/articles/physical-therapy-cost-calculator/)
+- [CareRoute: physical therapy cost in 2026](https://www.careroute.ai/costs/physical-therapy-cost)
+- [Sword Health: physical therapy cost with or without insurance](https://swordhealth.com/articles/physical-therapy-cost-with-or-without-insurance)
+- [KFF 2025 Employer Health Benefits Survey](https://www.kff.org/health-costs/report/2025-employer-health-benefits-survey/)
+- [CareRoute: MRI cost in 2026](https://www.careroute.ai/costs/mri-cost)
+- [Thervo: sports massage cost](https://thervo.com/costs/sports-massage-cost)
+- [Mental Game Coach: sport psychology coaching for amateur athletes](https://www.mentalgamecoach.com/product/Sport-Psychology-Coaching-Amateur-Athletes-1hr)
+- [Parkview Sports Medicine: peak performance training](https://parkview.com/sports-medicine/performance-training/peak-performance-training)
+- [Theragun Prime at Walmart](https://www.walmart.com/ip/18124821507)
+- [Normatec pricing 2026 (Runner's Picks)](https://www.runnerspicks.com/blog/normatec-pricing-2026-worth-it/)
+- [Mueller Sports Medicine pickleball braces](https://muellersportsmed.com/sports-medicine-sport/pickleball.html)
+- [Rehband pickleball collection](https://www.rehband.com/collections/pickleball)
+- [ValuePenguin: pickleball injuries study](https://www.valuepenguin.com/pickleball-injuries-study)
